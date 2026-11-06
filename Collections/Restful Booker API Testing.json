@@ -1,0 +1,11 @@
+{
+    "firstname": "Sowmiya",
+    "lastname": "K",
+    "totalprice": 1500,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-11-10",
+        "checkout": "2026-11-12"
+    },
+    "additionalneeds": "Breakfast"
+}
